@@ -1,0 +1,2 @@
+# SecretSantaAssigner
+During the holiday season, my friends and I decided to do a fun Secret Santa gift exchange, but since we had to do everything virtually, and couldn't just draw names from a hat, I decided to put my coding skills to the test and designed a program which assigns everyone a person that they have to gift. My program takes advantage of the Circularly Linked List data structure, each node is a person and the next node that they point to is their partner. I also used JavaMail to email the results in order to maintain secrecy.
